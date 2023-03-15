@@ -28,9 +28,6 @@ require (
 	github.com/tovenja/cron/v3 v3.0.2
 	github.com/vmihailenco/msgpack/v5 v5.3.5
 	github.com/wxnacy/wgo v1.0.4
-	gitlab.ecloud.com/ecloud/ecloudsdkcore v1.0.0
-	gitlab.ecloud.com/ecloud/ecloudsdkecs v1.0.12
-	gitlab.ecloud.com/ecloud/ecloudsdkeip v1.0.4
 	go.etcd.io/etcd/client/v3 v3.5.4
 	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.21.0
